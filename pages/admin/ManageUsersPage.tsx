@@ -126,7 +126,7 @@ const ManageUsersPage: React.FC = () => {
                 </div>
             </div>
 
-            <div className="overflow-x-auto bg-white dark:bg-gray-800 rounded-xl shadow-md">
+            <div className="overflow-x-auto bg-red dark:bg-gray-800 rounded-xl shadow-md">
                 <table className="min-w-full text-sm">
                     <thead className="bg-gray-50 dark:bg-gray-700">
                         <tr>
